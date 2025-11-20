@@ -11,5 +11,13 @@
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
     "stars": 2
+  },
+  {
+    "id": "subclasses_2024",
+    "name": "5e2024 + 5e subclasses",
+    "description": "The 5e 2024 classes with access to 5e subclasses",
+    "tags": ["fantasy", "5e", "5e2024"],
+    "repo_url": "https://d2g0c6hamn0dq.cloudfront.net",
+    "stars": 0
   }
 ]
