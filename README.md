@@ -2,6 +2,11 @@
 
 This repository contains the **community-maintained directory of RPG Companion repositories**.
 
+👉 **Directory website:**  
+https://repositories.rpg-companion.app
+
+Use this registry to discover and share JSON-based RPG systems, modules and homebrew content that can be added to the **RPG Companion App**.
+
 The data lives in [`registry.json`], which is consumed by a small website and by any external tools that want to list community repositories.
 
 ## How to add your repository
@@ -28,6 +33,8 @@ The data lives in [`registry.json`], which is consumed by a small website and by
 4. Open a Pull Request.
 
 Once merged, your repository will appear in the community directory and its GitHub stars will be shown as “likes”.
+
+- Your repository will appear on **https://repositories.rpg-companion.app**
 
 ## How the star sync works
 
