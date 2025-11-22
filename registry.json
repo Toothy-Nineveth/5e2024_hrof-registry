@@ -24,8 +24,8 @@
     "id": "5e2024HROF",
     "name": "D&D 2024 Heroes of Faerûn Companion Data",
     "description": "A repository containing subclasses, feats, spells, and backgrounds from the D&D 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in an RPG companion app.",
-    "tags": ["5e", "fantasy", "dnd2024", "forgotten-realms", "heroes-of-faerun", "rpg"],
-    "repo_url": "https://github.com/Toothy-Nineveth/5e2024HROF",
+    "tags": ["5e", "fantasy", "dnd2024", "forgotten-realms", "heroes-of-faerun"],
+    "repo_url": "https://toothy-nineveth.github.io/5e2024HROF/",
     "github_repo": "Toothy-Nineveth/5e2024HROF",
     "stars": 0
 }
