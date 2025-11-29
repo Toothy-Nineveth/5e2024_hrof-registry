@@ -10,23 +10,33 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 2
+    "stars": 3
   },
   {
     "id": "subclasses_2024",
     "name": "5e2024 + 5e subclasses",
     "description": "The 5e 2024 classes with access to 5e subclasses",
-    "tags": ["fantasy", "5e", "5e2024"],
+    "tags": [
+      "fantasy",
+      "5e",
+      "5e2024"
+    ],
     "repo_url": "https://d2g0c6hamn0dq.cloudfront.net",
     "stars": 0
-  }
+  },
   {
     "id": "5e2024HROF",
-    "name": "D&D 2024 Heroes of Faerûn Companion Data",
-    "description": "A repository containing subclasses, feats, spells, and backgrounds from the D&D 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in an RPG companion app.",
-    "tags": ["5e", "fantasy", "dnd2024", "forgotten-realms", "heroes-of-faerun"],
+    "name": "5e 2024 Heroes of Faerûn, Astarion's Book of Hungers and Lorwyn: First Light",
+    "description": "Subclasses, feats, spells, and backgrounds from 5e 2024 Forgotten Realms: Heroes of Faerûn, Astarion's Book of Hungers and Lorwyn: First Light for use in the RPG companion app",
+    "tags": [
+      "fantasy",
+      "5e2024",
+      "forgotten-realms",
+      "heroes-of-faerun"
+      "astarion's book of hungers"
+    ],
     "repo_url": "https://toothy-nineveth.github.io/5e2024HROF/",
     "github_repo": "Toothy-Nineveth/5e2024HROF",
-    "stars": 0
-}
+    "stars": 1
+  },
 ]
